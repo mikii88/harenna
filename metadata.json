@@ -1,0 +1,6 @@
+{
+  "name": "Harenna Forest Heritage",
+  "description": "Local action, indigenous knowledge, and conservation-linked green enterprise in the Harenna Forest landscape, Bale, Ethiopia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
